@@ -1,4 +1,4 @@
-# Claude Impact Lab × Cerebras Café Compute, Bhopal
+# Claude Impact Lab, Bhopal
 
 **Sunday 11 October 2026 · Build day · Bhopal**
 
