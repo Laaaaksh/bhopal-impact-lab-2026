@@ -1,6 +1,6 @@
 # Claude Impact Lab × Cerebras Café Compute, Bhopal
 
-**Sunday 11 October 2026 · Build day · [VENUE]**
+**Sunday 11 October 2026 · Build day · Bhopal**
 
 Welcome. Today you build a working tool for a real Bhopal problem, in one day, with Claude and Claude Code. Everything you build is open source and offered to the Government of Madhya Pradesh through MPSeDC.
 
